@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.div{
+    background-color: white;
+    width: 50%;
+    box-shadow: 2px 2px 4px gray;
+    padding: 10px;
+    margin: 10px 10px;
+    border-radius: 10px;
+}
